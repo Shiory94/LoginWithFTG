@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UPeULogin</string>
+    <string name="facebook_app_id">393228111088604</string>
+    <string name="fb_login_protocol_scheme">fb333482987023021</string>
+</resources>
